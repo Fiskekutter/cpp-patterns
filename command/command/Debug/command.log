@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\45311\source\repos\command\command\main.cpp(13): warning C4101: 'st': unreferenced local variable
+c:\users\45311\source\repos\command\command\main.cpp(15): error C4700: uninitialized local variable 'com' used
