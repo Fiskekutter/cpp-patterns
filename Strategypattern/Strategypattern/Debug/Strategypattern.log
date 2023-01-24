@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\45311\source\repos\strategypattern\strategypattern\main.cpp(16): error C3867: 'Context::getStrategy': non-standard syntax; use '&' to create a pointer to member
+c:\users\45311\source\repos\strategypattern\strategypattern\main.cpp(16): error C2446: '==': no conversion from 'strategy1 *' to 'IStrategy *(__thiscall Context::* )(void)'
+  c:\users\45311\source\repos\strategypattern\strategypattern\main.cpp(16): note: There is no context in which this conversion is possible
